@@ -18,4 +18,4 @@ In fulfillment of [Lab 2.1](https://ps-lms.vercel.app/curriculum/se/410/lab-1): 
 
 3. What tools did you use to check color contrast, and how did they help?
 
-*I used the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/), which allowed me to try foreground and background colors for textual elements and shoot for a contrast ratio of at least 4.5:1, conforming to the WCAG AA standard.*
+*I used the [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/), which allowed me to try foreground and background colors for textual elements and shoot for a contrast ratio of at least 4.5:1, conforming to the [WCAG](https://www.wcag.com/resource/what-is-wcag/) AA standard.*
